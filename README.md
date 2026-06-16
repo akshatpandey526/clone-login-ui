@@ -1,4 +1,4 @@
 ﻿# clone-login-ui
- this website is created only for education purpose 
- i tried to make a google login page ui clone 
- i change google logo and many thing by which anybody can thought that this is the website of google
+ this website is created only for education purpose .
+recreated a Google-inspired login page UI to practice frontend development.
+The Google logo and several other design elements have been modified so that it cannot be mistaken for the official Google website.
